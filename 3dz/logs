@@ -1,0 +1,105 @@
+Дата и время: 2023-02-27 22:56:21.832309
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Safari/537.36', 'DNT': '1', 'Referer': 'https://google.com'}
+
+Дата и время: 2023-02-27 22:56:23.795539
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.83 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Cache-Control': 'max-age=0', 'DNT': '1', 'Pragma': 'no-cache'}
+
+Дата и время: 2023-02-27 22:56:25.056733
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'en-US;q=0.5,en;q=0.3', 'Cache-Control': 'max-age=0', 'Upgrade-Insecure-Requests': '1', 'Pragma': 'no-cache'}
+
+Дата и время: 2023-02-27 22:56:26.991464
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36', 'DNT': '1'}
+
+Дата и время: 2023-02-27 22:56:28.103534
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Safari/537.36', 'Accept-Language': 'en-US;q=0.5,en;q=0.3', 'Cache-Control': 'max-age=0', 'Pragma': 'no-cache'}
+
+Дата и время: 2023-02-27 22:56:28.938523
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'en-US;q=0.5,en;q=0.3', 'Cache-Control': 'max-age=0', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Referer': 'https://google.com', 'Pragma': 'no-cache'}
+
+Дата и время: 2023-02-27 22:56:29.968598
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Cache-Control': 'max-age=0', 'Pragma': 'no-cache'}
+
+Дата и время: 2023-02-27 22:56:30.965377
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Safari/537.36', 'Accept-Language': 'en-US;q=0.5,en;q=0.3', 'Cache-Control': 'max-age=0', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Referer': 'https://google.com', 'Pragma': 'no-cache'}
+
+Дата и время: 2023-02-27 22:56:31.938066
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.83 Safari/537.36', 'Cache-Control': 'max-age=0', 'Upgrade-Insecure-Requests': '1'}
+
+Дата и время: 2023-02-27 22:56:32.873688
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Referer': 'https://google.com', 'Pragma': 'no-cache'}
+
+Дата и время: 2023-02-27 22:56:34.280783
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'DNT': '1', 'Referer': 'https://google.com'}
+
+Дата и время: 2023-02-27 22:56:35.076728
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Safari/537.36', 'Accept-Language': 'en-US;q=0.5,en;q=0.3', 'Referer': 'https://google.com', 'Pragma': 'no-cache'}
+
+Дата и время: 2023-02-27 22:56:36.497963
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Cache-Control': 'max-age=0', 'DNT': '1', 'Referer': 'https://google.com', 'Pragma': 'no-cache'}
+
+Дата и время: 2023-02-27 22:56:37.683890
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36', 'DNT': '1', 'Referer': 'https://google.com'}
+
+Дата и время: 2023-02-27 22:56:38.736874
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36', 'Accept-Language': 'en-US;q=0.5,en;q=0.3', 'Cache-Control': 'max-age=0', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Pragma': 'no-cache'}
+
+Дата и время: 2023-02-27 22:56:39.764934
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'en-US;q=0.5,en;q=0.3', 'Cache-Control': 'max-age=0', 'DNT': '1', 'Upgrade-Insecure-Requests': '1'}
+
+Дата и время: 2023-02-27 22:56:40.769192
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36', 'Cache-Control': 'max-age=0', 'Upgrade-Insecure-Requests': '1', 'Referer': 'https://google.com', 'Pragma': 'no-cache'}
+
+Дата и время: 2023-02-27 22:56:41.702711
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36', 'Cache-Control': 'max-age=0', 'Referer': 'https://google.com', 'Pragma': 'no-cache'}
+
+Дата и время: 2023-02-27 22:56:42.816486
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36', 'Cache-Control': 'max-age=0', 'DNT': '1', 'Referer': 'https://google.com', 'Pragma': 'no-cache'}
+
+Дата и время: 2023-02-27 22:56:44.057542
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36', 'Accept-Language': 'en-US;q=0.5,en;q=0.3', 'Cache-Control': 'max-age=0', 'Upgrade-Insecure-Requests': '1'}
+
+Дата и время: 2023-02-27 22:56:45.189231
+Функция: get_headers
+Параметры: ((), {})
+Вывод функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br', 'Upgrade-Insecure-Requests': '1', 'Referer': 'https://google.com', 'Pragma': 'no-cache'}
+

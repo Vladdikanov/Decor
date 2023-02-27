@@ -1,0 +1,37 @@
+[
+     {
+          "Вакансия": "Junior Python Backend Developer",
+          "Ссылка": "https://spb.hh.ru/vacancy/77236116?from=vacancy_search_list&query=python",
+          "Зарплата": "до 60 000 руб. на руки",
+          "Компания": "ООО АпТрейдер (UpTrader)",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Python-разработчик (Django, DRF)",
+          "Ссылка": "https://spb.hh.ru/vacancy/70705466?from=vacancy_search_list&query=python",
+          "Зарплата": "от 60 000 до 220 000 руб. на руки",
+          "Компания": "ООО Фабрика Решений",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Ведущий Python разработчик (удаленка)",
+          "Ссылка": "https://spb.hh.ru/vacancy/76832091?from=vacancy_search_list&query=python",
+          "Зарплата": "до 8 000 USD до вычета налогов",
+          "Компания": "Apostro",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Разработчик Python",
+          "Ссылка": "https://spb.hh.ru/vacancy/77419808?from=vacancy_search_list&query=python",
+          "Зарплата": "от 160 000 до 200 000 руб. до вычета налогов",
+          "Компания": "ООО Компания Дилявер",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Разработчик Python",
+          "Ссылка": "https://spb.hh.ru/vacancy/77439069?from=vacancy_search_list&query=python",
+          "Зарплата": "от 150 000 руб. на руки",
+          "Компания": "АО ФинТех",
+          "Город": "Москва"
+     }
+]
